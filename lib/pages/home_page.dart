@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Text("BUTTON"),
+        child: Text("BUTTONBUTTONBUTTONBUTTONBUTTONBUTTON"),
       ),
     );
   }
