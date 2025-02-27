@@ -12,6 +12,10 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Text("Hello World!"),
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {},
+        child: Text("FLOTING BUTTON"),
+      ),
     );
   }
 }
